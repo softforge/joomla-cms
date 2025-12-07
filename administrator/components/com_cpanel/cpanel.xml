@@ -22,5 +22,8 @@
 			<language tag="en-GB">language/en-GB/com_cpanel.sys.ini</language>
 		</languages>
 	</administration>
+	<dashboards>
+		<dashboard title="COM_CPANEL_DASHBOARD_HEALTH_CHECK_TITLE" icon="icon-heart">health-check</dashboard>
+	</dashboards>
 </extension>
 
