@@ -23,7 +23,7 @@
 		</languages>
 	</administration>
 	<dashboards>
-		<dashboard title="COM_CPANEL_DASHBOARD_HEALTH_CHECK_TITLE" icon="icon-heart">health-check</dashboard>
+		<dashboard title="COM_CPANEL_DASHBOARD_HEALTH_CHECK_TITLE" icon="icon-heart">cpanel.healthcheck</dashboard>
 	</dashboards>
 </extension>
 
